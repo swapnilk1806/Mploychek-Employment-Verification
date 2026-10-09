@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MPloyChek — Employment Verification SPA
 
 An Angular 12+ single-page application (SPA) concept for employment verification. The interface includes a role-based login, user-specific verification records, an administrator user-management area, and a configurable API delay to demonstrate asynchronous processing.
@@ -221,6 +220,4 @@ These are endpoint suggestions, not claims that a backend is already implemented
 ## Security reminder
 
 Mock credentials, local storage, and dummy records are appropriate only for a demo. For production, use a backend with secure authentication, hashed passwords, server-side role/access checks, validated inputs, and secure database configuration. Do not commit secrets or real personal verification data to source control.
-=======
-# Mploychek-Employment-Verification
->>>>>>> d885b65cdd9f12630de9996a8efa231fc6b374c0
+
