@@ -1,0 +1,11 @@
+@"
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+coverage/
+.angular/
+.DS_Store
+Thumbs.db
+"@ | Add-Content .gitignore
